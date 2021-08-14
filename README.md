@@ -6,9 +6,9 @@ Currently, I am pursuing B.Tech CSE from Lovely Professional University and my s
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Data Science. Love to play with data, analyzing things.
 
-Languages - C, C++, Java, Python3,  SQL, HTML, CSS, R.
-Tools used - Office365, Cisco Packet Tracer,  Dev-C++, GUI builder TKinter, Jupyter, PyCharm, Notepad++, SQLiteStudio, Tableau, Informatica Developer and Analyst, VM Ware, Rapid Minner
-Operating System - Windows7, Windows10
+- Languages - C, C++, Java, Python3,  SQL, HTML, CSS, R.
+- Tools used - Office365, Cisco Packet Tracer,  Dev-C++, GUI builder TKinter, Jupyter, PyCharm, Notepad++, SQLiteStudio, Tableau, Informatica Developer and Analyst, VM Ware, Rapid Minner
+- Operating System - Windows7, Windows10
 
 :mailbox: Reach me out!
 
