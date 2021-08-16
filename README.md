@@ -33,7 +33,5 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puja2481)](https://github.com/Puja2481/github-readme-stats)
 
-
-
 </details>
 
