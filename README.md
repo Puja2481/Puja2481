@@ -12,7 +12,7 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Puja-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtkRfDFRp-hyOEr2r_P81LQ/featured) [![Linkedin Badge](https://img.shields.io/badge/-Puja-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parnasree-das-6b0231196/) [![Mail Badge](https://img.shields.io/badge/-@puja_2481-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/puja_2481/) [![Mail Badge](https://img.shields.io/badge/-puja-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:puja2481cse@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Puja-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtkRfDFRp-hyOEr2r_P81LQ/featured) [![Linkedin Badge](https://img.shields.io/badge/-Puja-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parnasree-das-6b0231196/) [![Mail Badge](https://img.shields.io/badge/-@puja_2481-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/puja_2481/) [![Mail Badge](https://img.shields.io/badge/-puja-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:puja2481cse@gmail.com) [(https://img.shields.io/badge/-Portgolio-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://puja2481.github.io/Portfolio/)
 
 <!-- TODO: Add last video link -->
 
