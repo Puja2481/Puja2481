@@ -1,14 +1,21 @@
-## Hi I'm Puja <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Parnasree Das <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## Believe in your heart that you're meant to live a life full of passion, purpose, magic, and miracles"
 
-Currently, I am pursuing B.Tech CSE from Lovely Professional University and my specialization is in Data Science. 
+Currently, I am working as a QA Engineer in Juspay Technologies Private Limited and my specialization is in Software Testing. 
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
-I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Data Science. Love to play with data, analyzing things.
+I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Software Testing. Love to test software and finding bugs
 
-- Languages - C, C++, Java, Python3,  SQL, HTML, CSS, R.
-- Tools used - Office365, Cisco Packet Tracer,  Dev-C++, GUI builder TKinter, Jupyter, PyCharm, Notepad++, SQLiteStudio, Tableau, Informatica Developer and Analyst, VM Ware, Rapid Minner
-- Operating System - Windows7, Windows10
+## Skills
+- Programming Languages - Python3, Java, HTML, CSS.
+- Automation Tools: Selenium with Python , Selenium+BDD using Cucumber, Gherkins and JavaScript, Katalon Studio(For various platform like Web, Mweb, Android)
+- Test Management Tools Used: Jira, Test Rail
+- Visualization/Monitoring Tool: Kibbana
+- Version Control: Git And Github
+- CI/CD Tool: Jenkins and Docker
+- API Tools: Postman
+- Database Knowledge: SQL
+- Other Skills: QA testing, Debugging and Reporting Skills
 
 :mailbox: Reach me out!
 
