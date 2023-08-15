@@ -4,7 +4,7 @@
 
 Currently, I am working as a QA Engineer in Juspay Technologies Private Limited and my specialization is in Software Testing. 
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
-I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Software Testing. Love to test software and finding bugs
+I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Software Testing. Love to test software and finding bugs.
 
 ## Skills
 - Programming Languages - Python3, Java, HTML, CSS.
