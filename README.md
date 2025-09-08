@@ -2,7 +2,7 @@
 
 ## Believe in your heart that you're meant to live a life full of passion, purpose, magic, and miracles"
 
-Currently, I am working as a QA Engineer in Juspay Technologies Private Limited and my specialization is in Software Testing. 
+Currently, I am working as a SDET at Xperi(Tivo) and my specialization is in Software Testing. 
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Software Testing. Love to test software and finding bugs.
 
@@ -44,4 +44,5 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puja2481)](https://github.com/Puja2481/github-readme-stats)
 
 </details>
+
 
